@@ -11,4 +11,4 @@ Notification:Notify(
     {OutlineColor = Color3.fromRGB(255,255,255),Time = 10, Type = "image"},
     {Image = "http://www.roblox.com/asset/?id=13429676701", ImageColor = Color3.fromRGB(255, 255, 255)}
 )
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KINGHUB01/BlackKing/main/BlackKingMb"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jar9987/BLACKINGXBOBHUBOLD/refs/heads/main/x99"))()
