@@ -19,7 +19,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 	Text = "Game Support " .. "[" .. GameP .. "]", -- Required
 	Icon = "rbxassetid://13264701341" -- Optional
 })
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KINGHUB01/BlackKing-obf/main/Doors%20Lobby"))()
+loadstring(game:HttpGet("hhttps://raw.githubusercontent.com/Jar9987/BLACKINGXBOBHUBOLD/refs/heads/main/blacking_loader.lua""))()
   elseif game.PlaceId == 6839171747 then --- Doors In Game
 game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "Notification", -- Required
